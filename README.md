@@ -21,3 +21,5 @@ ROUTE               isAUTH      ACTION
 "/auth/register"    TRUE        REDIRECT TO -> "/dashboard"
 "/auth/register"    FALSE       NOTHING HAPPEND 
 
+
+3. (Optional) You can use the LoadingToRedirect.jsx in components/commons
